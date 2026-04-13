@@ -1,0 +1,20 @@
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.egg-info/
+venv/
