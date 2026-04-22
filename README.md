@@ -220,4 +220,4 @@ pip install pandas numpy scipy statsmodels scikit-learn seaborn matplotlib sqlal
 
 Targeting Data Analyst roles in Healthcare/Health Tech and Finance/Fintech.
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [GitHub](https://github.com/Krunal2003)
+[LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/krunal-vaghasiya-85187932b/)) · [GitHub](https://github.com/Krunal2003)
