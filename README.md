@@ -213,11 +213,3 @@ pip install pandas numpy scipy statsmodels scikit-learn seaborn matplotlib sqlal
 ```
 
 ---
-
-## Author
-
-**Krunal** — MS in Data Analytics, Northeastern University (Dec 2026)
-
-Targeting Data Analyst roles in Healthcare/Health Tech and Finance/Fintech.
-
-[LinkedIn](https://linkedin.com/in/www.linkedin.com/in/krunal-vaghasiya-85187932b/) · [GitHub](https://github.com/Krunal2003)
